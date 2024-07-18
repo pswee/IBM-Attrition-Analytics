@@ -15,7 +15,7 @@ The 'IBM HR Analytics Employee Attrition & Performance' dataset is available on 
 
 ## Repository Structure
 - **predictive_modeling.ipynb:** Jupyter notebook containing the predictive modeling code.
-- **IBMdata/:** Folder containing the dataset in CSV format.
+- **IBMdata.csv:** File containing the dataset in CSV format.
 
 ## How to Run
 - Clone the repository to your local machine.
